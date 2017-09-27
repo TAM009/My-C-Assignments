@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\obj\Debug\netcoreapp2.0\Loop.code.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\obj\Debug\netcoreapp2.0\Loop.code.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\obj\Debug\netcoreapp2.0\Loop.code.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\bin\Debug\netcoreapp2.0\Loop.code.deps.json
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\bin\Debug\netcoreapp2.0\Loop.code.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\bin\Debug\netcoreapp2.0\Loop.code.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\bin\Debug\netcoreapp2.0\Loop.code.dll
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\bin\Debug\netcoreapp2.0\Loop.code.pdb
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\obj\Debug\netcoreapp2.0\Loop.code.dll
+C:\Users\Administrator\Desktop\C# PE4\Loop.code\obj\Debug\netcoreapp2.0\Loop.code.pdb

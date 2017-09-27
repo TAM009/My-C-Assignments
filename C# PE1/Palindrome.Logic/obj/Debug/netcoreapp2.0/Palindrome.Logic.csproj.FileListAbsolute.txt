@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\obj\Debug\netcoreapp2.0\Palindrome.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\obj\Debug\netcoreapp2.0\Palindrome.Logic.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\obj\Debug\netcoreapp2.0\Palindrome.Logic.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\bin\Debug\netcoreapp2.0\Palindrome.Logic.deps.json
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\bin\Debug\netcoreapp2.0\Palindrome.Logic.runtimeconfig.json
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\bin\Debug\netcoreapp2.0\Palindrome.Logic.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\bin\Debug\netcoreapp2.0\Palindrome.Logic.dll
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\bin\Debug\netcoreapp2.0\Palindrome.Logic.pdb
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\obj\Debug\netcoreapp2.0\Palindrome.Logic.dll
+C:\Users\Administrator\Desktop\Palindrome Number\Palindrome.Logic\obj\Debug\netcoreapp2.0\Palindrome.Logic.pdb

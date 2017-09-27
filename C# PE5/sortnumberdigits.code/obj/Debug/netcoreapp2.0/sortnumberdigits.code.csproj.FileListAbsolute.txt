@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\bin\Debug\netcoreapp2.0\sortnumberdigits.code.deps.json
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\bin\Debug\netcoreapp2.0\sortnumberdigits.code.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\bin\Debug\netcoreapp2.0\sortnumberdigits.code.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\bin\Debug\netcoreapp2.0\sortnumberdigits.code.dll
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\bin\Debug\netcoreapp2.0\sortnumberdigits.code.pdb
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\obj\Debug\netcoreapp2.0\sortnumberdigits.code.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\obj\Debug\netcoreapp2.0\sortnumberdigits.code.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\obj\Debug\netcoreapp2.0\sortnumberdigits.code.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\obj\Debug\netcoreapp2.0\sortnumberdigits.code.dll
+C:\Users\Administrator\Desktop\C# PE5\sortnumberdigits.code\obj\Debug\netcoreapp2.0\sortnumberdigits.code.pdb

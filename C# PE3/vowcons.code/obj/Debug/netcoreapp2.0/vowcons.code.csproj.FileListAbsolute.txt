@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\bin\Debug\netcoreapp2.0\vowcons.code.deps.json
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\bin\Debug\netcoreapp2.0\vowcons.code.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\bin\Debug\netcoreapp2.0\vowcons.code.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\bin\Debug\netcoreapp2.0\vowcons.code.dll
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\bin\Debug\netcoreapp2.0\vowcons.code.pdb
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\obj\Debug\netcoreapp2.0\vowcons.code.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\obj\Debug\netcoreapp2.0\vowcons.code.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\obj\Debug\netcoreapp2.0\vowcons.code.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\obj\Debug\netcoreapp2.0\vowcons.code.dll
+C:\Users\Administrator\Desktop\C# PE3\vowcons.code\obj\Debug\netcoreapp2.0\vowcons.code.pdb

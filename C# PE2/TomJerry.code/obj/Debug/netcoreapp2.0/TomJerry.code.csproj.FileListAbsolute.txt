@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\bin\Debug\netcoreapp2.0\TomJerry.code.deps.json
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\bin\Debug\netcoreapp2.0\TomJerry.code.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\bin\Debug\netcoreapp2.0\TomJerry.code.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\bin\Debug\netcoreapp2.0\TomJerry.code.dll
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\bin\Debug\netcoreapp2.0\TomJerry.code.pdb
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\obj\Debug\netcoreapp2.0\TomJerry.code.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\obj\Debug\netcoreapp2.0\TomJerry.code.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\obj\Debug\netcoreapp2.0\TomJerry.code.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\obj\Debug\netcoreapp2.0\TomJerry.code.dll
+C:\Users\Administrator\Desktop\C# PE2\TomJerry.code\obj\Debug\netcoreapp2.0\TomJerry.code.pdb

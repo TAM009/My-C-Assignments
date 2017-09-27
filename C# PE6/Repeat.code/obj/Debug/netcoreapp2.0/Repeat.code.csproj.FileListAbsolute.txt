@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\bin\Debug\netcoreapp2.0\Repeat.code.deps.json
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\bin\Debug\netcoreapp2.0\Repeat.code.runtimeconfig.json
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\bin\Debug\netcoreapp2.0\Repeat.code.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\bin\Debug\netcoreapp2.0\Repeat.code.dll
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\bin\Debug\netcoreapp2.0\Repeat.code.pdb
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\obj\Debug\netcoreapp2.0\Repeat.code.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\obj\Debug\netcoreapp2.0\Repeat.code.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\obj\Debug\netcoreapp2.0\Repeat.code.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\obj\Debug\netcoreapp2.0\Repeat.code.dll
+C:\Users\Administrator\Desktop\My C# PE6\Repeat.code\obj\Debug\netcoreapp2.0\Repeat.code.pdb
